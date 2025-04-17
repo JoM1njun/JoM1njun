@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=venom&text=Minjun's%20Github&color=gradient)
 
+<br>
+<div align="center"> 😎문제가 생겼을 떄 해결하는 과정을 즐기는 개발자입니다😎 </div>
+<br>
 <!-- 나에 대한 내용 -->
 <h3>💬 About Me</h3>
 <hr style="border-bottom: 2px solid #ffffff; padding-bottom: 5px;">
