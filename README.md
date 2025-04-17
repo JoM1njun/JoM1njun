@@ -13,9 +13,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![header](https://capsule-render.vercel.app/api?type=venom&text=Welcome%20to%20My%20Github&color=gradient)
+
+<!-- 나에 대한 내용 -->
+<h3>💬 About Me</h3>
+<hr style="border-bottom: 2px solid #ffffff; padding-bottom: 5px;">
+<ul>
+  <li><strong>이름:</strong> 조민준</li>
+  <li><strong>메일:</strong> brian2732@naver.com</li>
+  <li><strong>관심분야:</strong> 백엔드</li>
+</ul>
 
 <!--내용 부분-->
-<h3>✨ Tech Stack ✨</h3>
+<h3>🔧 Tech Stack</h3>
 <hr style="border-bottom: 2px solid #ffffff; padding-bottom: 5px;">
 <h4> Language </h4>
 <div>
@@ -42,6 +52,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Node.js-5FA04E.svg?style=for-the-badge&logo=node.js&logoColor=FFFFFF" />&nbsp
 </div>
 <br> 
+<h3>✨ Github Stats</h3>
 <hr style="border-bottom: 2px solid #ffffff; padding-bottom: 5px;">
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JoM1njun&show_icons=true&theme=tokyonight)
