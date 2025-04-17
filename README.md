@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <h3>💬 About Me</h3>
 <hr style="border-bottom: 2px solid #ffffff; padding-bottom: 5px;">
 <ul>
-  <li><strong>Name:</strong> Jo Minjun</li>
+  <li><strong>Name:</strong> Minjun Jo</li>
   <li><strong>Mail:</strong> back__9@naver.com</li>
   <li><strong>Interest:</strong> BackEnd</li>
 </ul>
