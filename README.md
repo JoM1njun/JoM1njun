@@ -50,7 +50,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/PostgreSQL-41454A?style=for-the-badge&logo=postgresql&logoColor=4169E1" />&nbsp
 </div>
 
-<h4> etc </h4>
+<h4> Others </h4>
 <div>
   <img src="https://img.shields.io/badge/Node.js-5FA04E.svg?style=for-the-badge&logo=node.js&logoColor=FFFFFF" />&nbsp
 </div>
