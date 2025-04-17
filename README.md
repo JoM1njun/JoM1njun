@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 <h3>💬 About Me</h3>
 <hr style="border-bottom: 2px solid #ffffff; padding-bottom: 5px;">
 <ul>
-  <li><strong>이름:</strong> 조민준</li>
-  <li><strong>메일:</strong> brian2732@naver.com</li>
-  <li><strong>관심분야:</strong> 백엔드</li>
+  <li><strong>Name:</strong> Jo Minjun</li>
+  <li><strong>Mail:</strong> brian2732@naver.com</li>
+  <li><strong>Interest:</strong> BackEnd</li>
 </ul>
 
 <!--내용 부분-->
