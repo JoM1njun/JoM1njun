@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <ul>
   <li><strong>Name:</strong> Minjun Jo</li>
   <li><strong>Mail:</strong> back__9@naver.com</li>
-  <li><strong>Interest:</strong> BackEnd</li>
+  <li><strong>Interest:</strong> Back-End</li>
 </ul>
 
 <!--내용 부분-->
