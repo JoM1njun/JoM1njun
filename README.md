@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <hr style="border-bottom: 2px solid #ffffff; padding-bottom: 5px;">
 <ul>
   <li><strong>Name:</strong> Jo Minjun</li>
-  <li><strong>Mail:</strong> brian2732@naver.com</li>
+  <li><strong>Mail:</strong> back__9@naver.com</li>
   <li><strong>Interest:</strong> BackEnd</li>
 </ul>
 
