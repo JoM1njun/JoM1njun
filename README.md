@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=venom&text=Welcome%20to%20My%20Github&color=gradient)
+![header](https://capsule-render.vercel.app/api?type=venom&text=Minjun's%20Github&color=gradient)
 
 <!-- 나에 대한 내용 -->
 <h3>💬 About Me</h3>
