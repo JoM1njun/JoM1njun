@@ -57,12 +57,12 @@ Here are some ideas to get you started:
 <br> 
 <hr style="border-bottom: 2px solid #ffffff; padding-bottom: 5px;">
 
-<h4> ✏️ Studying </h4>
+<h3> ✏️ Studying </h3>
   <div> Spring Boot </div>
 <br>
 <hr style="border-bottom: 2px solid #ffffff; padding-bottom: 5px;">
 
-<h4> 📜 Certificates </h4>
+<h3> 📜 Certificates </h3>
 <ul>
   <li> 2025.04.04 SQL 개발자(SQLD) - 한국데이터산업진흥원</li>
 </ul>
