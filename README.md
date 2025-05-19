@@ -55,14 +55,14 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Node.js-5FA04E.svg?style=for-the-badge&logo=node.js&logoColor=FFFFFF" />&nbsp
 </div>
 <br> 
-<hr style="border-bottom: 2px solid #ffffff; padding-bottom: 5px;">
 
 <h3> ✏️ Studying </h3>
+<hr style="border-bottom: 2px solid #ffffff; padding-bottom: 5px;">
   <div> Spring Boot </div>
 <br>
-<hr style="border-bottom: 2px solid #ffffff; padding-bottom: 5px;">
 
 <h3> 📜 Certificates </h3>
+<hr style="border-bottom: 2px solid #ffffff; padding-bottom: 5px;">
 <ul>
   <li> 2025.04.04 SQL 개발자(SQLD) - 한국데이터산업진흥원</li>
 </ul>
