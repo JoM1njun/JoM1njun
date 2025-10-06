@@ -65,7 +65,7 @@ Here are some ideas to get you started:
 <hr style="border-bottom: 2px solid #ffffff; padding-bottom: 5px;">
 <ul>
   <li> 2025.04.04 SQL 개발자(SQLD) - 한국데이터산업진흥원</li>
-  <li> 2025.10.03 리눅스마스터 2 - 한국정보통신진흥협회</li>
+  <li> 2025.10.03 리눅스마스터 2급 - 한국정보통신진흥협회</li>
 </ul>
 <br> 
 
