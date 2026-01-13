@@ -60,8 +60,10 @@ Here are some ideas to get you started:
 
 <h3> ✏️ Studying </h3>
 <hr style="border-bottom: 2px solid #ffffff; padding-bottom: 5px;">
+<ul>
   <li> Spring Boot </li>
   <li> Flutter </li>
+</ul>
 <br>
 
 <h3> 🛠 Tools </h3>
