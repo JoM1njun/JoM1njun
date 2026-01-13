@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 <div>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=FF9E0F" />&nbsp
   <img src="https://img.shields.io/badge/PostgreSQL-41454A?style=for-the-badge&logo=postgresql&logoColor=4169E1" />&nbsp
-  <img src="https://img.shields.io/badge/NoSQL-FFFFFF?style=for-the-badge&logo=nosql&logoColor=7F7FFF" />&nbsp
+  <img src="https://img.shields.io/badge/NoSQL-897BFF?style=for-the-badge&logo=nosql&logoColor=FFFFFF" />&nbsp
 </div>
 
 <h4> Others </h4>
@@ -72,7 +72,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
-  <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/figma-008CD7.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/VSCode-2F80ED.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
 </div>
 <br>
