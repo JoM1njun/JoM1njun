@@ -36,6 +36,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=FFFFFF" />&nbsp
   <img src="https://img.shields.io/badge/CSS3-FFFFFF.svg?style=for-the-badge&logo=css3&logoColor=1572B6" />&nbsp
   <img src="https://img.shields.io/badge/JavaScript-4d77cf.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />&nbsp
+  <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=F7DF1E" />&nbsp
 </div>
 
 <h4> FrameWork </h4>
@@ -48,6 +49,7 @@ Here are some ideas to get you started:
 <div>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=FF9E0F" />&nbsp
   <img src="https://img.shields.io/badge/PostgreSQL-41454A?style=for-the-badge&logo=postgresql&logoColor=4169E1" />&nbsp
+  <img src="https://img.shields.io/badge/NoSQL-FFFFFF?style=for-the-badge&logo=nosql&logoColor=7F7FFF" />&nbsp
 </div>
 
 <h4> Others </h4>
@@ -58,8 +60,8 @@ Here are some ideas to get you started:
 
 <h3> ✏️ Studying </h3>
 <hr style="border-bottom: 2px solid #ffffff; padding-bottom: 5px;">
-  <div> Spring Boot </div>
-  <div> Flutter </div>
+  <li> Spring Boot </li>
+  <li> Flutter </li>
 <br>
 
 <h3> 📜 Certificates </h3>
