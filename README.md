@@ -27,7 +27,7 @@ Here are some ideas to get you started:
   <li><strong>Interest:</strong> Back-end</li>
 </ul>
 
-<!--내용 부분-->
+<!-- 기술 부분 -->
 <h3>🔧 Tech Stack</h3>
 <hr style="border-bottom: 2px solid #ffffff; padding-bottom: 5px;">
 <h4> Language </h4>
@@ -58,6 +58,7 @@ Here are some ideas to get you started:
 </div>
 <br> 
 
+<!-- 하고 있는 공부 -->
 <h3> ✏️ Studying </h3>
 <hr style="border-bottom: 2px solid #ffffff; padding-bottom: 5px;">
 <ul>
@@ -66,6 +67,7 @@ Here are some ideas to get you started:
 </ul>
 <br>
 
+<!-- 사용할 수 있는 Tools -->
 <h3> 🛠 Tools </h3>
 <hr style="border-bottom: 2px solid #ffffff; padding-bottom: 5px;">
 <div>
@@ -77,6 +79,7 @@ Here are some ideas to get you started:
 </div>
 <br>
 
+<!-- 자격증 -->
 <h3> 📜 Certificates </h3>
 <hr style="border-bottom: 2px solid #ffffff; padding-bottom: 5px;">
 <ul>
@@ -87,6 +90,5 @@ Here are some ideas to get you started:
 
 <h3>✨ Github Stats</h3>
 <hr style="border-bottom: 2px solid #ffffff; padding-bottom: 5px;">
-
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JoM1njun&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoM1njun&layout=compact&theme=tokyonight)
