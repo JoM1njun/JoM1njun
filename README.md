@@ -55,6 +55,7 @@ Here are some ideas to get you started:
 <h4> Others </h4>
 <div>
   <img src="https://img.shields.io/badge/Node.js-5FA04E.svg?style=for-the-badge&logo=node.js&logoColor=FFFFFF" />&nbsp
+  <img src="https://img.shields.io/badge/NGINX-009639.svg?style=for-the-badge&logo=NGINX&logoColor=FFFFFF" />&nbsp
 </div>
 <br> 
 
