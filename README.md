@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 <!--https://shields.io/badges (Logo Badge)-->
 <!--https://simpleicons.org/ (Logo Color & Badge)-->
 
+<!--Top Live Image-->
 ![header](https://capsule-render.vercel.app/api?type=venom&text=Minjun's%20Github&color=gradient)
 
 <br>
@@ -96,5 +97,6 @@ Here are some ideas to get you started:
 <h3>✨ Github Stats</h3>
 <hr style="border-bottom: 2px solid #ffffff; padding-bottom: 5px;">
 
+<!--Stat & Grade-->
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JoM1njun&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoM1njun&layout=compact&theme=tokyonight)
