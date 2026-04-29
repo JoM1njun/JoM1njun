@@ -33,6 +33,7 @@ Here are some ideas to get you started:
 <h4> Language </h4>
 <div>
   <img src="https://img.shields.io/badge/Java-20232a.svg?style=for-the-badge&logo=java&logoColor=61DAFB" />&nbsp
+  <img src="https://img.shields.io/badge/C-#A8B9CC.svg?style=for-the-badge&logo=C&logoColor=000000" />&nbsp
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=FFFFFF" />&nbsp
   <img src="https://img.shields.io/badge/CSS3-663399.svg?style=for-the-badge&logo=css&logoColor=1572B6" />&nbsp
   <img src="https://img.shields.io/badge/JavaScript-4d77cf.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />&nbsp
