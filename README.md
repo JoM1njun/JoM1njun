@@ -13,6 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--https://shields.io/badges (Logo Badge)-->
+<!--https://simpleicons.org/ (Logo Color & Badge)-->
+
 ![header](https://capsule-render.vercel.app/api?type=venom&text=Minjun's%20Github&color=gradient)
 
 <br>
