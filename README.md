@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 <div>
   <img src="https://img.shields.io/badge/Java-20232a.svg?style=for-the-badge&logo=java&logoColor=61DAFB" />&nbsp
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=FFFFFF" />&nbsp
-  <img src="https://img.shields.io/badge/CSS-663399.svg?style=for-the-badge&logo=css3&logoColor=1572B6" />&nbsp
+  <img src="https://img.shields.io/badge/CSS3-663399.svg?style=for-the-badge&logo=css&logoColor=1572B6" />&nbsp
   <img src="https://img.shields.io/badge/JavaScript-4d77cf.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />&nbsp
   <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=F7DF1E" />&nbsp
 </div>
