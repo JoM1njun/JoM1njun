@@ -26,8 +26,8 @@ Here are some ideas to get you started:
 <h3>💬 About Me</h3>
 <hr style="border-bottom: 2px solid #ffffff; padding-bottom: 5px;">
 <ul>
-  <li><strong>Name:</strong> Minjun Jo</li>
-  <li><strong>Mail:</strong> whalswns02.dev@gmail.com</li>
+  <!-- <li><strong>Name:</strong> Minjun Jo</li>
+  <li><strong>Mail:</strong> whalswns02.dev@gmail.com</li> -->
   <li><strong>Interest:</strong> Back-end</li>
 </ul>
 
